@@ -34,6 +34,14 @@ files for KiCad in the aptly named folder in this repository. To use this projec
 containing these files into a folder of your choice. Then open KiCad and navigate to File -> Open -> 
 'FOLDER_OF_YOUR_CHOICE' -> AD595_thermocouple_breakout_board.pro
 
+BILL OF MATERIALS
+-----------------
+
+ * 1 x Analog Devices Thermocouple Type-K Amplifier - AD595 (http://littlebirdelectronics.com/products/thermocouple-amplifier-ad595aq)
+ * 1 x 14-pin DIP Socket (http://littlebirdelectronics.com/products/dip-sockets-solder-tail-14pin-03)
+ * 1 x Break Away Headers - Straight (http://littlebirdelectronics.com/products/break-away-headers-straight)
+ * 1 x 3-pin Screw Terminal (http://littlebirdelectronics.com/products/screw-terminals-35mm-pitch-3pin)
+
 DISTRIBUTION
 ------------
 The specific terms of distribution of this project are governed by the license referenced below.
